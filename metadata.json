@@ -1,0 +1,6 @@
+{
+  "name": "People's Priorities AI",
+  "description": "People's Priorities AI: A development planning and crowd-sourced decision-support platform that transforms citizen-suggested infrastructure improvements (schools, water, roads) into prioritised development heatmaps and AI budget planners for MPs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
