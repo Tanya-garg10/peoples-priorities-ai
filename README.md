@@ -6,8 +6,6 @@ People's Priorities AI is a next-generation civic engagement platform designed t
 
 [![AI Studio App](https://img.shields.io/badge/AI_Studio-View_App-blue?style=for-the-badge&logo=google-cloud)](https://ai.studio/apps/198875a5-ecd7-4dd5-bd97-83aeadc61e8a)
 
----
-
 ## 🚀 Key Features
 
 ### 1. 🤖 Multi-Agent Civic Pipeline
@@ -33,8 +31,6 @@ A powerful interface for Municipal Commissioners and Planners:
 - **AI-Generated Analytics:** Visualizes trends, department performance, and category distributions using Recharts.
 - **Project Dispatch:** Directly assign verified citizen proposals to relevant departments (PWD, Water Board, etc.).
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React 19, TypeScript, Tailwind CSS 4, Motion (Framer Motion).
@@ -42,8 +38,6 @@ A powerful interface for Municipal Commissioners and Planners:
 - **Backend:** Node.js (Express), TSX.
 - **Database/Auth:** Firebase (Firestore & Authentication).
 - **Visualization:** Recharts (Charts) & Google Maps API.
-
----
 
 ## 🚦 Getting Started
 
@@ -76,9 +70,7 @@ A powerful interface for Municipal Commissioners and Planners:
    ```bash
    npm run dev
    ```
-
----
-
+   
 ## 📸 Project Workflow
 
 1. **Citizen Proposal:** A citizen uploads a photo of a civic issue (e.g., a pothole) and describes the need.
@@ -86,12 +78,9 @@ A powerful interface for Municipal Commissioners and Planners:
 3. **Community Consensus:** Other citizens can vote/support the proposal to increase its "Democratic Score."
 4. **Budget Dispatch:** AI clusters similar local requests and presents a "Budget Dispatch" to the Municipal Commissioner for approval.
 
----
-
 ## ⚖️ License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 <div align="center">
   Built with ❤️ for a Smarter, More Democratic Future.
 </div>
