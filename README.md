@@ -4,8 +4,6 @@
 
 People's Priorities AI is a next-generation civic engagement platform designed to transform how citizens propose and prioritize public development projects. By leveraging **Google Gemini AI Multi-Agents**, the platform analyzes community demand, clusters similar requests, and provides municipal planners with data-driven budget allocation strategies.
 
-[![AI Studio App](https://img.shields.io/badge/AI_Studio-View_App-blue?style=for-the-badge&logo=google-cloud)](https://ai.studio/apps/198875a5-ecd7-4dd5-bd97-83aeadc61e8a)
-
 ## 🚀 Key Features
 
 ### 1. 🤖 Multi-Agent Civic Pipeline
