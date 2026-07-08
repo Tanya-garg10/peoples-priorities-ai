@@ -26,13 +26,13 @@ import {
 
 // Configuration from our custom user project
 const firebaseConfig = {
-  apiKey: "AIzaSyBVN7xli_mLhQfrd8oPY4oyLbAw5-XNKNk",
-  authDomain: "civiq-ai-7d0c1.firebaseapp.com",
-  projectId: "civiq-ai-7d0c1",
-  storageBucket: "civiq-ai-7d0c1.firebasestorage.app",
-  messagingSenderId: "960901427571",
-  appId: "1:960901427571:web:ced3d23211da5ed34e9506",
-  measurementId: "G-5EJ8ZEDDD0"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID
 };
 
 const app = initializeApp(firebaseConfig);
